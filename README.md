@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finding a Full-Time Remote Job
+- 🔭 I’m currently working on finding a Full-Time Software Engineer Remote Job
 - 🌱 I’m currently learning VueX State Management
 - 💬 Ask me about split keyboards. Currently using Lily58
 - 😄 Pronouns: He/His
