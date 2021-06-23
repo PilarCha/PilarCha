@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning VueX State Management
 - 💬 Ask me about split keyboards. Currently using Lily58
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later.
+- ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later
