@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PilarCha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css)
