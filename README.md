@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on finding a Full-Time Software Engineer Remote Job
 - 🌱 I’m currently learning VueX State Management
 - 💬 Ask me about split keyboards. Currently using Lily58 with Mod-m switches
-- 😄 Pronouns: He/His
+- :smile: Pronouns: He/His
 - ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css)
