@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 A majority of my time right now is finding a Full-Time Software Engineer Remote Job
+- 🔭 On the search for finding a Permenant Remote Full-Time Software Engineer job
 - 🌱 I’m currently learning ReactJS (about time)
 - 💬 Ask me about split keyboards. Currently using Lily58 with Mod-m switches
 - :smile: Pronouns: He/Him/His
