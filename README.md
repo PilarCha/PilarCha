@@ -7,13 +7,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finding a Full-Time Software Engineer Remote Job
-- 🌱 I’m currently learning VueX State Management
+- 🔭 A majority of my time right now is finding a Full-Time Software Engineer Remote Job
+- 🌱 I’m currently learning ReactJS (about time)
 - 💬 Ask me about split keyboards. Currently using Lily58 with Mod-m switches
 - :smile: Pronouns: He/Him/His
 - ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later
-
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css)
+ </div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PilarCha&show_icons=true&theme=radical)
 
 
