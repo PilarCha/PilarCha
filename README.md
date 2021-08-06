@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about split keyboards. Currently using Lily58 with Mod-m switches
 - :smile: Pronouns: He/Him/His
 - ⚡ Fun fact: Microsoft Zunes were highly underrated. I still used mine 12 years later
-<div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css)
- </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PilarCha&show_icons=true&theme=radical)
 
 
