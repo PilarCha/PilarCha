@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PilarCha&theme=radical&hide=HTML,css) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PilarCha&show_icons=true&theme=radical)
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=PilarCha&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 
 ## ✉️ Find me on:
 
