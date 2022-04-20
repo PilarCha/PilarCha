@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 On the search for finding a Permenant Remote Full-Time Software Engineer job
+- 🔭 Successfully found a job as a remote Software Engineer at PayNearMe. Thank you PayNearMe.
 - 🌱 I’m currently learning ReactJS (about time)
 - 💬 Ask me about split keyboards. Currently using Lily58 with Mod-m switches
 - :smile: Pronouns: He/Him/His
